@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Class-Path: lib/servlet-api-3.0-alpha-1.jar lib/mysql-connector-java-5
+ .1.13.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: theMainClass
+
